@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python train_cifar_eca_normal.py --model res34_noeca --attack none --fname ./results/716_8_nt_res34noeca/

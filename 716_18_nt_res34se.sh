@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=5 python train_cifar_eca_normal.py --model res34_se --attack none --fname ./results/716_18_nt_res34se/

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train_cifar_eca.py --model res18_noeca --fname ./results/716_5_at_res18noeca/

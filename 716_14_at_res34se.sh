@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train_cifar_eca.py --model res34_se --fname ./results/716_14_at_res34se/

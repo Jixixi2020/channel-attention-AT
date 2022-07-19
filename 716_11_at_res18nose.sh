@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train_cifar_eca.py --model res18_nose --fname ./results/716_11_at_res18nose/
